@@ -2,7 +2,7 @@
 
 title: "하수구 냄새 제거 해결 방법"
 
-date: 2025-11-20T20:51:32+09:00
+date: 2025-11-20T21:12:35+09:00
 
 summary: "씽크대·욕실 하수구 냄새 줄이는 현실적인 방법"
 
@@ -44,8 +44,8 @@ draft: false
 <div class="product-card">
   <p><strong>배수구 탈취 젤 타입</strong></p>
   <p>싱크대·욕실 배수구 냄새를 잡아주는 젤 타입 탈취제</p>
-  <p>가격: ₩7</p>
-  <p><a href="500" target="_blank" rel="nofollow">상품 보러가기</a></p>
+  <p>가격: ₩7,500</p>
+  <p><a href="https://example.com/drain-deodorizer" target="_blank" rel="nofollow">상품 보러가기</a></p>
 </div>
 
 

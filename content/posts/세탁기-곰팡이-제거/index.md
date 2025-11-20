@@ -2,7 +2,7 @@
 
 title: "세탁기 곰팡이 제거 해결 방법"
 
-date: 2025-11-20T20:51:32+09:00
+date: 2025-11-20T21:12:35+09:00
 
 summary: "세탁기 고무 패킹 곰팡이를 없애는 방법"
 
@@ -44,8 +44,8 @@ draft: false
 <div class="product-card">
   <p><strong>세탁기 곰팡이 클리너 3회분</strong></p>
   <p>세탁조 안쪽 때와 곰팡이를 녹여주는 전용 클리너</p>
-  <p>가격: ₩9</p>
-  <p><a href="900" target="_blank" rel="nofollow">상품 보러가기</a></p>
+  <p>가격: ₩9,900</p>
+  <p><a href="https://example.com/washing-machine-cleaner" target="_blank" rel="nofollow">상품 보러가기</a></p>
 </div>
 
 

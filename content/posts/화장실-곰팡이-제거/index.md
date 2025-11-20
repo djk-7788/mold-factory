@@ -2,7 +2,7 @@
 
 title: "화장실 곰팡이 제거 해결 방법"
 
-date: 2025-11-20T20:51:32+09:00
+date: 2025-11-20T21:12:35+09:00
 
 summary: "실리콘 틈 곰팡이 스스로 처리하는 방법"
 
@@ -44,8 +44,8 @@ draft: false
 <div class="product-card">
   <p><strong>실리콘 곰팡이 제거 젤</strong></p>
   <p>타일 줄눈·실리콘 틈새에 쓰는 곰팡이 제거 젤</p>
-  <p>가격: ₩8</p>
-  <p><a href="900" target="_blank" rel="nofollow">상품 보러가기</a></p>
+  <p>가격: ₩8,900</p>
+  <p><a href="https://example.com/mold-gel" target="_blank" rel="nofollow">상품 보러가기</a></p>
 </div>
 
 
