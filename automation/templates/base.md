@@ -22,7 +22,7 @@ draft: false
 
 
 
-{{cause\_block}}
+[[cause_block]]
 
 
 
@@ -30,7 +30,7 @@ draft: false
 
 
 
-{{solution\_block}}
+[[solution_block]]
 
 
 
@@ -38,7 +38,7 @@ draft: false
 
 
 
-{{product\_block}}
+[[product_block]]
 
 
 
@@ -46,7 +46,7 @@ draft: false
 
 
 
-{{tip\_block}}
+[[tip_block]]
 
 
 
@@ -54,7 +54,7 @@ draft: false
 
 
 
-{{faq\_block}}
+[[faq_block]]
 
 
 
