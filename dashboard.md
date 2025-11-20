@@ -90,11 +90,11 @@ C-4-3: rollback_last_batch.py
 
 \# D. Hugo 자동 빌드 \& 미리보기
 
-\- \[ ] build\_site.py 작성  
+\- \[x] build\_site.py 작성  
 
-\- \[ ] public/ 빌드 확인  
+\- \[x] public/ 빌드 확인  
 
-\- \[ ] 유효한 HTML 구조 검사  
+\- \[x] 유효한 HTML 구조 검사  
 
 
 
