@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 16px;
+            line-height: 1.6;
+        }
+        header {
+            margin-bottom: 32px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 8px;
+        }
+        header h1 {
+            font-size: 24px;
+            margin: 0;
+        }
+        main {
+            margin-top: 24px;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 12px;
+            color: #888;
+            border-top: 1px solid #eee;
+            padding-top: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>곰팡이 해결 공장 (임시 타이틀)</h1>
+</header>
+
+<main>
+    {{ block "main" . }}{{ end }}
+</main>
+
+<footer>
+    &copy; {{ now.Year }} Mold Factory · Programmatic SEO Lab
+</footer>
+
+</body>
+</html>

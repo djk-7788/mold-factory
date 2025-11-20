@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+<article style="max-width:900px; margin:auto; line-height:1.7;">
+
+    <!-- 제목 -->
+    <h1 style="font-size:28px; margin-bottom:4px;">{{ .Title }}</h1>
+    <p style="color:#888; font-size:14px; margin-top:0;">
+        {{ .Date.Format "2006-01-02" }}
+    </p>
+
+    <!-- 요약 -->
+    {{ with .Params.summary }}
+    <div style="background:#f9f9f9; padding:16px; border-left:4px solid #4CAF50; margin:24px 0;">
+        <strong>요약:</strong><br>
+        {{ . }}
+    </div>
+    {{ end }}
+
+    <!-- 원인 -->
+    {{ with .Params.causes }}
+    <h2 style="margin-top:40px;">왜 이런 문제가 생기나요?</h2>
+    <ul>
+        {{ range . }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    <!-- 해결 방법 -->
+    {{ with .Params.solutions }}
+    <h2 style="margin-top:40px;">가장 효과적인 해결 방법</h2>
+    <ol>
+        {{ range . }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ol>
+    {{ end }}
+
+    <!-- 추가 팁 -->
+    {{ with .Params.tips }}
+    <h2 style="margin-top:40px;">추가 팁</h2>
+    <ul>
+        {{ range . }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    <!-- 본문 내용 -->
+    <div style="margin-top:40px;">
+        {{ .Content }}
+    </div>
+
+</article>
+
+{{ end }}
